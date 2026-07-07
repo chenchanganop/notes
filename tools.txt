@@ -1,1 +1,10 @@
 date:- 3-7-26
+for scanning:- nmap,rustscan,masscan
+for identifying hashes:- hash-identifier(github), hashid, name that hash (CLI), hashes.com (website)
+for cracking hashes:- for cracking common hashes use hashes.com , crackstation.net
+for cracking hash with kali linux tools:- hashcat, johntheripper
+password cracking :- john the ripper
+
+priv escalation:- 
+linux:- sudo -l, suid, cron jobs
+
